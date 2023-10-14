@@ -52,7 +52,8 @@ We normally use the decimal number system (10), but computers use binary, compos
 The number above is 10, as there are:
 
 $$
-1*2^3 + 0*2^2 + 1*2^1 + 0*2^0
+
+1 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0
 
 $$
 
